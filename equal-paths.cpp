@@ -43,7 +43,7 @@ int helper(Node* n) {
 bool equalPaths(Node * root)
 {
     // Add your code below
-    if (root = NULL) {
+    if (root == NULL) {
         return true;
     }
     else {
